@@ -1,4 +1,4 @@
-# 👋 Hola, soy Josefina Urquiza
+# 👋 Hola, soy Josefina!
 
 ¡Bienvenid@ a mi GitHub!  
 
