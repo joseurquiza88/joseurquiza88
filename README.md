@@ -45,6 +45,6 @@
 ## 📫 Contacto
 
 - Correo: [josefina.urquizap@gmail.com]()  
-- LinkedIn: [(https://www.linkedin.com/in/josefina-urquizap/)]
+- LinkedIn: [https://www.linkedin.com/in/josefina-urquizap/]
 
 
