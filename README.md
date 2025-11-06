@@ -12,7 +12,7 @@
 ## 🔭 Mis proyectos principales
 
 - **Predicción de PM2.5 en ciudades latinoamericanas**  
-  Uso de modelos de machine learning (Random Forest, XGBoost, SVR, GAM) para estimar concentraciones de partículas finas a partir de datos satelitales, meteorológicos y de superficie.
+  Uso de modelos de machine learning para predecir concentraciones de partículas finas a partir de datos satelitales, de reanalisis y de superficie.
 
 - **Análisis espacial y temporal de datos ambientales**  
   Procesamiento de datos raster y vectoriales con R (`raster`, `sf`, `sp`) y Python (`xarray`, `rasterio`, `geopandas`), integración de series temporales y creación de mapas de contaminación.
