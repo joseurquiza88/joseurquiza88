@@ -2,10 +2,13 @@
 
 ¡Bienvenid@ a mi GitHub!  
 
-💡 Soy científica de datos y analista de datos con experiencia en Python y R, enfocada en transformar datos complejos en información útil y en soluciones prácticas. 
+## 💡 Sobre mí
 
-🌱 Actualmente estoy realizando un **Doctorado en Ingeniería Ambiental**, lo que me permite aplicar estadística, machine learning y visualización de datos para analizar fenómenos desde diferentes perspectivas que se conectan, cubriendo desde aspectos ambientales hasta desafíos urbanos, económicos y de salud.
+Soy analista de datos con experiencia en **Python**, **R**, **SQL**, **GIS** y **teledetección**, enfocada en aplicar herramientas de **modelado estadístico** y **machine learning** al **monitoreo ambiental y climático**.
 
+🎓 Actualmente curso un **Doctorado en Ingeniería Civil-Ambiental**, donde investigo la **contaminación atmosférica** y la **calidad del aire** en centros urbanos de América Latina.  
+
+🚀 Busco seguir creciendo en proyectos que integren **análisis de datos, modelado espacial y programación**, buscando transformar los datos en **información útil** para la toma de decisiones.
 
 ---
 
