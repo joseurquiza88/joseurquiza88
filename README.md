@@ -1,8 +1,8 @@
-# 👋 Hola, soy Josefina!
 
-¡Bienvenid@ a mi GitHub!  
+<img width="1584" height="396" alt="Banner para Linkedin Recursos Humanos Mujer Minimalista Beige" src="https://github.com/user-attachments/assets/78e3ebe2-1f7a-4e51-9f78-84738d55e1ff" />
 
-## 💡 Sobre mí
+
+## Sobre mí
 
 Soy analista de datos con experiencia en **Python**, **R**, **SQL**, **GIS** y **teledetección**, enfocada en aplicar herramientas de **modelado estadístico** y **machine learning** al **monitoreo ambiental y climático**.
 
