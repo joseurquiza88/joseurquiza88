@@ -1,8 +1,10 @@
 
-<img width="1584" height="396" alt="Banner para Linkedin Recursos Humanos Mujer Minimalista Beige" src="https://github.com/user-attachments/assets/78e3ebe2-1f7a-4e51-9f78-84738d55e1ff" />
+<img width="1584" height="396" alt="Banner JUrquiza" src="https://github.com/user-attachments/assets/7188b73a-03a4-4579-be7f-b45187317906" />
 
-###
-💻 Sobre mí
+
+---
+
+## 💻 Sobre mí
 
 Soy Data Analyst especializada en análisis ambiental y geoespacial.. Trabajo con Python, R y GIS para transformar datos complejos en información clara y útil para la toma de decisiones.
 
@@ -10,23 +12,25 @@ Actualmente realizo un Doctorado en Ingeniería Civil-Ambiental, donde investigo
 
 Me interesa participar en proyectos que combinen análisis de datos, modelado espacial y visualización, tanto en contextos ambientales como en entornos más generales de analítica.
 
-###
-🔎 Qué hago
+---
+
+## 🔎 Qué hago
 - Análisis y preparación de información ambiental.
 - Integración de datos espaciales y series temporales.
 - Modelado estadístico y validación de modelos.
 - Visualización y comunicación de resultados.
 - Automatización de procesos reproducibles.
 
-###
-🛠 Herramientas
+---
+## 🛠 Herramientas
 Python · R · SQL · Power BI
 Pandas · dplyr · ggplot2 · matplotlib
 GIS (sf, raster, geopandas, xarray)
 Git & GitHub
 
-###
-📌 Proyectos destacados
+---
+
+## 📌 Proyectos destacados
 - Análisis y predicción espacio-temporal de la contaminación atmosférica por material particulado
 - Procesamiento de datos geoespaciales y series temporales para identificar patrones espaciales.
 - Desarrollo del paquete R “AirExposure” que corresponde al modelo de exposición a contaminantes atmosféricos basado en movilidad y actividades diarias.
@@ -39,5 +43,7 @@ Git & GitHub
 
 - Correo: [josefina.urquizap@gmail.com]()  
 - LinkedIn: [https://www.linkedin.com/in/josefina-urquizap/]
+---
+![Profile views](https://komarev.com/ghpvc/?username=joseurquiza88&color=green)
 
 
