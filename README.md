@@ -6,7 +6,7 @@
 
 ## 💻 Sobre mí
 
-Soy Data Analyst especializada en análisis ambiental y geoespacial.. Trabajo con Python, R y GIS para transformar datos complejos en información clara y útil para la toma de decisiones.
+Soy Data Analyst especializada en análisis ambiental y geoespacial. Trabajo con Python, R y GIS para transformar datos complejos en información clara y útil para la toma de decisiones.
 
 Actualmente realizo un Doctorado en Ingeniería Civil-Ambiental, donde investigo sobre calidad del aire en ciudades latinoamericanas, integrando datos satelitales, meteorológicos y de superficie.
 
@@ -22,11 +22,14 @@ Me interesa participar en proyectos que combinen análisis de datos, modelado es
 - Automatización de procesos reproducibles.
 
 ---
-## 🛠 Herramientas
-Python · R · SQL · Power BI
-Pandas · dplyr · ggplot2 · matplotlib
-GIS (sf, raster, geopandas, xarray)
-Git & GitHub
+## 🛠 Tecnologías y herramientas 
+- Lenguajes: R & Python.
+- Machine Learning: Random Forest, XGBoost, SVR, GAM.
+- Bases de datos: MySQL, PostgreSQL, libreria ipython-sql.
+- Data Wrangling: dplyr, pandas, tidyr, numpy.
+- Visualización: Power-BI, ggplot2, matplotlib, seaborn.
+- GIS y Remote Sensing: QGIS, sf, raster, xarray, rasterio
+- Control de versiones y colaboración: Git, GitHub.
 
 ---
 
