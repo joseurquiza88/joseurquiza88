@@ -1,5 +1,5 @@
+<img width="1584" height="396" alt="Banner Linkedin (1)" src="https://github.com/user-attachments/assets/03e12cf9-3aa9-4a56-85c1-5cc116ffe398" />
 
-<img width="1584" height="396" alt="Banner JUrquiza" src="https://github.com/user-attachments/assets/7188b73a-03a4-4579-be7f-b45187317906" />
 
 # Hola! Soy Josefina 👋
 
